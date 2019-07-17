@@ -1,0 +1,12 @@
+C:\Users\panli\Desktop\HelloWorld\WcfService1\bin\WcfService1.dll
+C:\Users\panli\Desktop\HelloWorld\WcfService1\bin\WcfService1.pdb
+C:\Users\panli\Desktop\HelloWorld\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\panli\Desktop\HelloWorld\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\WcfService1\bin\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\WcfService1\bin\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\WcfService1\bin\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\WcfService1\bin\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,30 @@
+c:\users\lpan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\lpan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\lpan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+c:\users\lpan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+c:\users\lpan\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\DllTest.pdb
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\DllTest.pdb
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\DllTest.dll
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\WcfService1.dll
+C:\Users\panli\Desktop\HelloWorld\HelloWorld\bin\Debug\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\bin\Debug\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache

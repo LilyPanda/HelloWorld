@@ -1,0 +1,10 @@
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Release\UnitTestHelloWorld.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Release\UnitTestHelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Release\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Release\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Release\UnitTestHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Release\UnitTestHelloWorld.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Release\UnitTestHelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Release\UnitTestHelloWorld.dll.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Release\UnitTestHelloWorld.DatabaseUnitTest1.resources
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Release\UnitTestHelloWorld.csproj.GenerateResource.Cache

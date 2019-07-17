@@ -1,0 +1,10 @@
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\WcfService1.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.pdb

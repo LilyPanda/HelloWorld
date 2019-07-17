@@ -1,0 +1,6 @@
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Release\DllTest.dll.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Release\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Release\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\obj\Release\DllTest.csprojResolveAssemblyReference.cache
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\obj\Release\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\obj\Release\DllTest.pdb

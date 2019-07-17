@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5c03ef18-a195-4861-8704-37fed35df139" name="lpan@CA-D1CGDZ1-D 2019-07-16 14:18:06" runUser="ORT\lpan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3808f4cb-6f5c-49dd-a6d3-bf8308ff60d7">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="lpan_CA-D1CGDZ1-D 2019-07-16 14_18_06">
+      <DeploymentItem filename="C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Debug\DllTest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-07-16T14:18:06.5831833-07:00" queuing="2019-07-16T14:18:06.7782418-07:00" start="2019-07-16T14:18:06.7822430-07:00" finish="2019-07-16T14:18:07.0453219-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetValue_Return" storage="c:\users\lpan\documents\visual studio 2010\projects\helloworld\unittesthelloworld\bin\debug\unittesthelloworld.dll" id="1be569b0-4c85-22bf-d7f8-f6fe522fb90c">
+      <Execution id="ba9df50a-df71-4442-ba33-1b2c778f5b38" />
+      <TestMethod codeBase="C:/Users/lpan/Documents/Visual Studio 2010/Projects/HelloWorld/UnitTestHelloWorld/bin/Debug/UnitTestHelloWorld.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestHelloWorld.UnitTestHW, UnitTestHelloWorld, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetValue_Return" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1be569b0-4c85-22bf-d7f8-f6fe522fb90c" executionId="ba9df50a-df71-4442-ba33-1b2c778f5b38" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ba9df50a-df71-4442-ba33-1b2c778f5b38" testId="1be569b0-4c85-22bf-d7f8-f6fe522fb90c" testName="GetValue_Return" computerName="CA-D1CGDZ1-D" duration="00:00:00.0201016" startTime="2019-07-16T14:18:06.8012487-07:00" endTime="2019-07-16T14:18:07.0343186-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba9df50a-df71-4442-ba33-1b2c778f5b38">
+    </UnitTestResult>
+  </Results>
+</TestRun>

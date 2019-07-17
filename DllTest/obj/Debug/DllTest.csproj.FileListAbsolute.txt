@@ -1,0 +1,15 @@
+C:\Users\panli\Desktop\HelloWorld\DllTest\obj\Debug\DllTest.pdb
+C:\Users\panli\Desktop\HelloWorld\DllTest\bin\Debug\DllTest.dll.config
+C:\Users\panli\Desktop\HelloWorld\DllTest\bin\Debug\DllTest.pdb
+C:\Users\panli\Desktop\HelloWorld\DllTest\obj\Debug\DllTest.dll
+C:\Users\panli\Desktop\HelloWorld\DllTest\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Debug\DllTest.dll.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Debug\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\obj\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\obj\Debug\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\DllTest\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\DllTest\bin\Debug\DllTest.dll.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\DllTest\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\DllTest\bin\Debug\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\DllTest\obj\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\DllTest\obj\Debug\DllTest.pdb

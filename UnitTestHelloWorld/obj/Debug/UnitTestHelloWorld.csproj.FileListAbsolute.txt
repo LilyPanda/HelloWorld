@@ -1,0 +1,27 @@
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.pdb
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\DllTest.dll
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\DllTest.pdb
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.dll
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.pdb
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\WcfService1.dll
+C:\Users\panli\Desktop\HelloWorld\UnitTestHelloWorld\bin\Debug\WcfService1.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll.config
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\bin\Debug\UnitTestHelloWorld.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\bin\Debug\DllTest.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\bin\Debug\DllTest.pdb
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.dll
+C:\Users\lpan\Documents\Visual Studio 2010\Projects\GitHub\HelloWorld\UnitTestHelloWorld\obj\Debug\UnitTestHelloWorld.pdb
